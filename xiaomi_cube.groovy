@@ -1,5 +1,5 @@
 /**
- *  "Xiaomi Magic Cube Controller"
+ *  "Xiaomi Magic Cube"
  *
  *  Author: Artur Draga
  *	
